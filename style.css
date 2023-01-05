@@ -1,0 +1,59 @@
+#body {
+    padding-top: 90px;
+    background-color: rgb(253, 251, 251);
+    margin: 0%;
+    padding: 0%;
+    border: 2%;
+    font-size: 16px;
+    color: rgb(21, 21, 24);
+    line-height: 20px;
+    font-family: 'Genos','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+#titulo {
+    padding-left: 40%;
+}
+#cabecalho {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 90px;
+    margin: 0%;
+    background-color: rgb(109, 182, 113);
+    padding-left: 20px;
+}
+#minha_foto {
+    border-radius: 15px;
+    width: 220px;
+    height: 200px;
+    object-fit: cover;
+    margin-top: 90px;
+}
+#main_content {
+    padding-left: 20px;
+    width: 100%;
+    float: left;
+}
+.div1 {
+    width: 100%;
+}
+.section_list {
+    width: 50%;
+    float: left;
+}
+  
+.lado-direito {
+    padding-left: 20px;
+    width: 50%;
+    float: right;
+}
+.lado-esquerdo {
+    padding-left: 20px;
+    width: 45%;
+    float: left;
+}
+#tab {
+    padding-left: 20px;
+    width: 100%;
+    float: left;
+}
